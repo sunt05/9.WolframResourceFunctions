@@ -1,6 +1,5 @@
 # My Wolfram Resource Functions
 
-[![View notebooks](https://wolfr.am/HAAhzkRq)](https://wolfr.am/URFCP170)
 
 ([create your own WL badge](https://www.wolframcloud.com/obj/github-cloud/form/BadgeCreation))
 
@@ -16,11 +15,14 @@ Apply a function to keys of an association and group results by modified keys
 3. [`AssociationTranspose`](https://resources.wolframcloud.com/FunctionRepository/resources/AssociationTranspose):
 Transpose the levels of an Association with nested levels
 
+4. [`NaNQ`](NaNQ-Definition.nb): Test if a numeric value is an IEEE 754 NaN
+5. [`ReplaceNaN`](ReplaceNaN-Definition.nb): Replace all IEEE 754 NaN values in an array with custom representations
+6. [`NFunction`](NFunction-Definition.nb): Allow a function to perform pure numeric computation by silently ignoring non-numeric values
+
+
 ## Under Review
-1. [`NaNQ`](NaNQ-Definition.nb)
 
-2. [`ReplaceNaN`](ReplaceNaN-Definition.nb)
 
-3. [`NFunction`](NFunction-Definition.nb)
+
 
 ## In Progress
