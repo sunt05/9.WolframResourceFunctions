@@ -29,3 +29,4 @@ Transpose the levels of an Association with nested levels
 
 - [ ] `TimeSeriesRound`: Round a TimeSeries/TemporalData to a closest timestamp of given granularity
 - [ ] `ReadPandasHDF`/`WritePandasHDF`: Read/Write HDF5 files compatible with Python `pandas` package
+- [ ] `ShowGrid`: Display matrix of plot/graphics panels using `Grid` with enhanced handling of plot dimensions
